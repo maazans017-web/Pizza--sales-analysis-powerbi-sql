@@ -159,4 +159,5 @@ The Pizza Sales Analysis project showcases strong fundamentals in Business Intel
 
 
 Demo screeonshot : (https://github.com/maazans017-web/Pizza--sales-analysis-powerbi-sql/blob/main/Crazy%20Pizza%20Sales%20Analysis.png)
-Pbix File : 
+
+Pbix File : (https://github.com/maazans017-web/Pizza--sales-analysis-powerbi-sql/blob/main/pizza%20sales%20project.pbix)
