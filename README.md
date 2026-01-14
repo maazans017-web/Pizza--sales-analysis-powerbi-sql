@@ -151,13 +151,12 @@ Low-performing items can be reviewed for improvement or removal
 ✅ Conclusion
 
 This project demonstrates the ability to:
-
 Perform end-to-end data analysis using SQL and Power BI
-
 Build efficient data models and DAX measures
-
 Translate raw transactional data into actionable business insights
-
 Design executive-friendly dashboards for decision-making
-
 The Pizza Sales Analysis project showcases strong fundamentals in Business Intelligence, Data Visualization, and Analytical Thinking, making it suitable for Data Analyst / Power BI roles.
+
+
+Demo screeonshot : (https://github.com/maazans017-web/Pizza--sales-analysis-powerbi-sql/blob/main/Crazy%20Pizza%20Sales%20Analysis.png)
+Pbix File : 
